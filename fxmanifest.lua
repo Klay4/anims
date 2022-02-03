@@ -27,3 +27,7 @@ files {
     'html/js/modules/*.js',
     'anims.json'
 }
+
+dependencies {
+    '/gameBuild:2060'
+}
